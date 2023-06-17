@@ -1,0 +1,6 @@
+com/thinking/machines/network/common/Request.java
+ com.thinking.machines.network.common.Request
+com/thinking/machines/network/common/exceptions/NetworkException.java
+ com.thinking.machines.network.common.exceptions.NetworkException
+com/thinking/machines/network/common/Response.java
+ com.thinking.machines.network.common.Response

@@ -1,0 +1,4 @@
+com/thinking/machines/network/client/Configuration.java
+ com.thinking.machines.network.client.Configuration
+com/thinking/machines/network/client/NetworkClient.java
+ com.thinking.machines.network.client.NetworkClient

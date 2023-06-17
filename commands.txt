@@ -1,0 +1,9 @@
+client side 
+java -classpath ..\common\dist\hr-common.jar;..\dbdl\build\libs\dbdl.jar;..\netclient\build\libs\netclient.jar;..\netcommon\build\libs\netcommon.jar;build\libs\pl.jar;libs\*;c:\mysqljar\mysql-connector-java-8.0.20.jar;..\proxybl\build\libs\proxybl.jar;. com.thinking.machines.hr.pl.Main
+
+server side (in hrserver)
+java -classpath ..\build\libs\hrserver.jar;..\..\netcommon\build\libs\netcommon.jar;..\..\netserver\build\libs\netserver.jar;..\..\bl\build\libs\bl.jar;..\..\dbdl\build\libs\dbdl.jar;..\..\common\dist\hr-common.jar;c:\mysqljar\mysql-connector-java-8.0.20.jar;. com.thinking.machines.hr.server.main.Main
+
+
+simply run
+java -classpath ..\bl\build\libs\bl.jar;..\common\dist\hr-common.jar;..\dbdl\build\libs\dbdl.jar;build\libs\pl.jar;libs\*;c:\mysqljar\mysql-connector-java-8.0.20.jar;. com.thinking.machines.hr.pl.Main
